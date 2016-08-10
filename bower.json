@@ -1,0 +1,22 @@
+{
+  "name": "Front",
+  "homepage": "https://github.com/kaosb/cl_project_a_frontend",
+  "authors": [
+    "Roberto Carvajal <roberto.carvajal@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "d3": "^4.2.1",
+    "d3-scale": "^1.0.3"
+  }
+}
