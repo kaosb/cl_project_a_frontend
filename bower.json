@@ -17,6 +17,7 @@
   "dependencies": {
     "jquery": "^3.1.0",
     "d3": "^4.2.1",
-    "d3-scale": "^1.0.3"
+    "d3-scale": "^1.0.3",
+    "AdminLTE": "adminlte#^2.3.6"
   }
 }
